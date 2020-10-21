@@ -14,12 +14,4 @@ CCPP Technical Documentation
    CompliantPhysicsParams
    ConfigBuildOptions
    ConstructingSuite
-   AutoGenPhysCaps
-   HostSideCoding
-   CodeManagement
-   CCPPPreBuild
-   AddingNewSchemes
-   ParamSpecificOutput
-   CCPPDebug
-   Acronyms
-   Glossary
+   AutoGenPhysCap
